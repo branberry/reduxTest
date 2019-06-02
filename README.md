@@ -1,2 +1,0 @@
-# reduxTest
-Created with CodeSandbox
